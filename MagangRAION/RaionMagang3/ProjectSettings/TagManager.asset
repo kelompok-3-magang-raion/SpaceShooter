@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Bullet
+  - Boss
+  - Gabung
+  - Player1
+  - Player2
+  - PlayerGabungan
+  - ShootPoint
+  - Limit
   layers:
   - Default
   - TransparentFX
@@ -13,9 +22,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Player
+  - Background
+  - tes
   - 
   - 
   - 
@@ -43,4 +52,13 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 92037747
+    locked: 0
+  - name: Player
+    uniqueID: 917285725
+    locked: 0
+  - name: Enemy
+    uniqueID: 2615912267
+    locked: 0
+  - name: UI
+    uniqueID: 1544204073
     locked: 0
